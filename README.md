@@ -2,6 +2,7 @@
 
 ## 🧠 `Silicognito` – *Private AI at the Edge*
 
+```md
 # 🧠 Silicognito
 > **Private AI at the edge. Yours only.**
 
