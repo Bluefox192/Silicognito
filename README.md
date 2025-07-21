@@ -1,3 +1,5 @@
+---
+
 ## 🧠 `Silicognito` – *Private AI at the Edge*
 
 # 🧠 Silicognito
@@ -28,3 +30,11 @@ Silicognito is an offline-first, privacy-focused local AI assistant. It runs LLM
 └── docs/
 
 ```
+
+## 🛡️ Privacy
+No cloud. No tracking. Fully yours.
+
+---
+```
+
+---
